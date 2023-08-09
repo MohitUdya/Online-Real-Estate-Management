@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:NewsId;datatype:int,name:News;datatype:string,name:NewsDate;datatype:date" />
+</info>

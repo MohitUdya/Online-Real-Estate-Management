@@ -1,0 +1,14 @@
+Admin:
+Username: admin
+Password: admin
+
+User/Customer:
+Username: markcodes
+Password: code0
+
+
+DON'T FORGET TO CREATE A DATABASE AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+
+
